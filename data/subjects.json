@@ -1,0 +1,134 @@
+{
+"sensation-and-perception-in-hci": [
+{
+"type": "enumeration",
+"question": "Enumerate the elements that good design must consider according to the text.",
+"answer": [
+"Clear visuals",
+"Readable text",
+"Meaningful icons and sounds"
+]
+},
+{
+"type": "enumeration",
+"question": "Enumerate the important aspects of visual perception listed in the text.",
+"answer": [
+"Color perception",
+"Size and visibility of objects",
+"Gestalt principles"
+]
+},
+{
+"type": "enumeration",
+"question": "Enumerate the sub-aspects associated with color perception.",
+"answer": [
+"Contrast",
+"Color blindness"
+]
+},
+{
+"type": "enumeration",
+"question": "Enumerate the Gestalt principles mentioned under visual perception.",
+"answer": [
+"Proximity",
+"Similarity",
+"Continuity"
+]
+},
+{
+"type": "enumeration",
+"question": "Enumerate what hearing is used for in auditory perception.",
+"answer": [
+"Alerts",
+"Notifications",
+"Voice interaction"
+]
+},
+{
+"type": "enumeration",
+"question": "Enumerate the key aspects of auditory perception.",
+"answer": [
+"Volume",
+"Tone/Pitch",
+"Recognition of patterns"
+]
+},
+{
+"type": "enumeration",
+"question": "Enumerate what haptic (touch) perception includes in the text.",
+"answer": [
+"Vibration feedback",
+"Force feedback"
+]
+},
+{
+"type": "enumeration",
+"question": "Enumerate the limits of sensory perception mentioned in the text.",
+"answer": [
+"Visual overload",
+"Auditory overload",
+"Individual differences"
+]
+},
+{
+"type": "enumeration",
+"question": "Enumerate the individual differences affecting sensory perception.",
+"answer": [
+"Color blindness",
+"Hearing loss",
+"Disability"
+]
+},
+{
+"type": "enumeration",
+"question": "Enumerate the characteristics recommended in the design tip for interfaces.",
+"answer": [
+"Simple",
+"Clear",
+"Accessible"
+]
+},
+{
+"type": "enumeration",
+"question": "Enumerate the sensory areas designers must consider in the summary section.",
+"answer": [
+"Vision",
+"Hearing",
+"Touch"
+]
+},
+{
+"type": "enumeration",
+"question": "Enumerate the vision elements designers must consider according to the summary.",
+"answer": [
+"Colors",
+"Shapes",
+"Grouping"
+]
+},
+{
+"type": "enumeration",
+"question": "Enumerate the hearing elements designers must consider according to the summary.",
+"answer": [
+"Alerts",
+"Notifications"
+]
+},
+{
+"type": "enumeration",
+"question": "Enumerate the touch elements designers must consider according to the summary.",
+"answer": [
+"Vibration",
+"Feedback"
+]
+},
+{
+"type": "enumeration",
+"question": "Enumerate the visual perception color examples provided in the text.",
+"answer": [
+"Green = Go",
+"Red = Stop"
+]
+}
+]
+}
