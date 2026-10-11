@@ -1,5 +1,393 @@
 {
+"human-information-processing": [
+{
+"type": "identification",
+"question": "What field of study explores how people receive, process, and respond to information?",
+"answer": "Human Information Processing"
+},
+{
+"type": "identification",
+"question": "What acronym represents the study of how humans handle and process information?",
+"answer": "HIP"
+},
+{
+"type": "identification",
+"question": "Which science discipline explains how the brain works in the context of human information processing?",
+"answer": "Psychology"
+},
+{
+"type": "identification",
+"question": "Which science discipline explains how machines process data in human information processing?",
+"answer": "Computer science"
+},
+{
+"type": "identification",
+"question": "What is the primary goal of making technology easier, faster, and safer to use?",
+"answer": "Technology"
+},
+{
+"type": "identification",
+"question": "What concept refers to understanding what people can and cannot do well?",
+"answer": "Human factors"
+},
+{
+"type": "identification",
+"question": "Which human strength involves quick recognition?",
+"answer": "Quick recognition"
+},
+{
+"type": "identification",
+"question": "Which human strength involves learning patterns?",
+"answer": "Learning patterns"
+},
+{
+"type": "identification",
+"question": "Which human limitation involves memory lapses?",
+"answer": "Memory lapses"
+},
+{
+"type": "identification",
+"question": "Which human limitation involves slower reaction under stress?",
+"answer": "Slower reaction under stress"
+},
+{
+"type": "identification",
+"question": "What are created to match human abilities based on human-factors knowledge?",
+"answer": "Systems"
+},
+{
+"type": "identification",
+"question": "What term refers to a step-by-step breakdown of how a user completes a task?",
+"answer": "Task Modeling"
+},
+{
+"type": "identification",
+"question": "What model consists of perception, cognition, and action?",
+"answer": "Problem-Solving Model"
+},
+{
+"type": "identification",
+"question": "What part of the problem-solving model is responsible for recognizing information?",
+"answer": "Perception"
+},
+{
+"type": "identification",
+"question": "What part of the problem-solving model is responsible for analyzing and planning?",
+"answer": "Cognition"
+},
+{
+"type": "identification",
+"question": "What part of the problem-solving model is responsible for executing a response?",
+"answer": "Action"
+},
+{
+"type": "identification",
+"question": "What area focuses on how fast and accurate humans can respond?",
+"answer": "Human Reaction"
+},
+{
+"type": "identification",
+"question": "What factor influencing human response measures how fast humans can respond?",
+"answer": "Reaction time"
+},
+{
+"type": "identification",
+"question": "What factor influencing human response tracks a person's sustained focus?",
+"answer": "Attention span"
+},
+{
+"type": "identification",
+"question": "What factor influencing human response tracks the frequency of mistakes made?",
+"answer": "Error rate"
+},
+{
+"type": "identification",
+"question": "What type of design leads to an improved user experience?",
+"answer": "Interface design"
+},
+{
+"type": "identification",
+"question": "What is improved when interface design is better executed?",
+"answer": "User experience"
+},
+{
+"type": "identification",
+"question": "What mental strain is reduced by better interface design?",
+"answer": "Cognitive load"
+},
+{
+"type": "identification",
+"question": "What negative occurrences are reduced by effective interface design?",
+"answer": "Errors"
+},
+{
+"type": "identification",
+"question": "What operational outcome is enhanced by better interface design?",
+"answer": "Productivity"
+},
+{
+"type": "identification",
+"question": "What user feeling is enhanced through better interface design?",
+"answer": "Satisfaction"
+},
+{
+"type": "identification",
+"question": "What kind of systems are helped by human-factors knowledge?",
+"answer": "User-friendly systems"
+},
+{
+"type": "identification",
+"question": "What is the first of the two main parts of human-factors knowledge?",
+"answer": "Task Modeling & Problem-Solving"
+},
+{
+"type": "identification",
+"question": "What mobile software category serves as an application of human-information processing?",
+"answer": "Apps"
+},
+{
+"type": "identification",
+"question": "What internet platform category serves as an application of human-information processing?",
+"answer": "Websites"
+},
+{
+"type": "enumeration",
+"question": "Enumerate the two fields connected by Human Information Processing (HIP).",
+"answer": [
+"psychology",
+"computer science"
+]
+},
+{
+"type": "enumeration",
+"question": "Enumerate the goals of Human Information Processing in relation to technology.",
+"answer": [
+"easier",
+"faster",
+"safer to use"
+]
+},
+{
+"type": "enumeration",
+"question": "Enumerate the human strengths that designers must consider.",
+"answer": [
+"quick recognition",
+"learning patterns"
+]
+},
+{
+"type": "enumeration",
+"question": "Enumerate the human limitations that designers must consider.",
+"answer": [
+"memory lapses",
+"slower reaction under stress"
+]
+},
+{
+"type": "enumeration",
+"question": "Enumerate the components of the Problem-Solving Model.",
+"answer": [
+"Perception",
+"Cognition",
+"Action"
+]
+},
+{
+"type": "enumeration",
+"question": "Enumerate the factors that influence human reaction.",
+"answer": [
+"Reaction time",
+"Attention span",
+"Error rate"
+]
+},
+{
+"type": "enumeration",
+"question": "Enumerate the outcomes and benefits of better interface design in HCI.",
+"answer": [
+"improved user experience",
+"reduces cognitive load and errors",
+"enhances productivity and satisfaction"
+]
+},
+{
+"type": "enumeration",
+"question": "Enumerate the two main parts outlined in the summary.",
+"answer": [
+"Task Modeling & Problem-Solving",
+"Human Reaction & Performance Prediction"
+]
+},
+{
+"type": "enumeration",
+"question": "Enumerate the applications mentioned for Human Information Processing.",
+"answer": [
+"Better apps",
+"websites",
+"systems"
+]
+},
+{
+"type": "enumeration",
+"question": "Enumerate how people handle information according to the definition of Human Information Processing (HIP).",
+"answer": [
+"receive",
+"process",
+"respond to information"
+]
+}
+],
 "sensation-and-perception-in-hci": [
+{
+"type": "identification",
+"question": "What term defines the process of detecting physical stimuli through the senses?",
+"answer": "Sensation"
+},
+{
+"type": "identification",
+"question": "What concept represents the process of interpreting and making sense of sensation?",
+"answer": "Perception"
+},
+{
+"type": "identification",
+"question": "Which specific sense is identified as the most dominant sense in Human-Computer Interaction?",
+"answer": "Visual perception"
+},
+{
+"type": "identification",
+"question": "Which aspect of visual perception deals with contrast and color deficiencies?",
+"answer": "Color perception"
+},
+{
+"type": "identification",
+"question": "Which group of principles under visual perception includes proximity, similarity, and continuity?",
+"answer": "Gestalt principles"
+},
+{
+"type": "identification",
+"question": "Which Gestalt principle describes items positioned close to one another being perceived as related?",
+"answer": "Proximity"
+},
+{
+"type": "identification",
+"question": "Which Gestalt principle involves elements sharing similar visual characteristics being grouped together?",
+"answer": "Similarity"
+},
+{
+"type": "identification",
+"question": "Which Gestalt principle refers to the eye following smooth, continuous paths or lines?",
+"answer": "Continuity"
+},
+{
+"type": "identification",
+"question": "What sensory modality is utilized in HCI for system alerts, notifications, and voice interaction?",
+"answer": "Auditory perception"
+},
+{
+"type": "identification",
+"question": "Which key aspect of auditory perception must be noticeable without being irritating?",
+"answer": "Volume"
+},
+{
+"type": "identification",
+"question": "Which auditory attribute is used to convey urgency, such as high-pitch emergency alarms?",
+"answer": "Tone/Pitch"
+},
+{
+"type": "identification",
+"question": "What process in auditory perception allows familiar sounds to be easily identified?",
+"answer": "Recognition of patterns"
+},
+{
+"type": "identification",
+"question": "What perceptual modality allows users to process interface information through physical contact?",
+"answer": "Haptic perception"
+},
+{
+"type": "identification",
+"question": "What specific haptic feedback mechanism is commonly used on mobile phones?",
+"answer": "Vibration feedback"
+},
+{
+"type": "identification",
+"question": "What type of haptic feedback is typically utilized in game controllers to enhance interaction?",
+"answer": "Force feedback"
+},
+{
+"type": "identification",
+"question": "What sensory limitation occurs when there is too much information displayed on a screen, leading to confusion?",
+"answer": "Visual overload"
+},
+{
+"type": "identification",
+"question": "What sensory limitation occurs when too many notifications cause user irritation?",
+"answer": "Auditory overload"
+},
+{
+"type": "identification",
+"question": "What category of factors includes color blindness, hearing loss, or physical disabilities affecting perception?",
+"answer": "Individual differences"
+},
+{
+"type": "identification",
+"question": "What specific visual impairment affects color perception and is a key individual difference in HCI design?",
+"answer": "Color blindness"
+},
+{
+"type": "identification",
+"question": "What specific sensory impairment involves a reduction in the ability to hear system sounds?",
+"answer": "Hearing loss"
+},
+{
+"type": "identification",
+"question": "What design property ensures that text on an interface can be easily read by users?",
+"answer": "Readable text"
+},
+{
+"type": "identification",
+"question": "What visual design element must be clear to help users receive information correctly from a system?",
+"answer": "Clear visuals"
+},
+{
+"type": "identification",
+"question": "What interface elements must be meaningful alongside sounds to support good design?",
+"answer": "Icons"
+},
+{
+"type": "identification",
+"question": "What color is explicitly used in the visual perception example to represent 'Go'?",
+"answer": "Green"
+},
+{
+"type": "identification",
+"question": "What color is explicitly used in the visual perception example to represent 'Stop'?",
+"answer": "Red"
+},
+{
+"type": "identification",
+"question": "What system feature allows users to interact with technology using spoken voice inputs?",
+"answer": "Voice interaction"
+},
+{
+"type": "identification",
+"question": "What tactile enhancement improves user immersion and interaction with digital systems?",
+"answer": "Immersion"
+},
+{
+"type": "identification",
+"question": "What overall design goal makes information easy to sense and understand for the user?",
+"answer": "Good design"
+},
+{
+"type": "identification",
+"question": "What raw sensory input corresponds directly to the sensation phase in human information processing?",
+"answer": "Input"
+},
+{
+"type": "identification",
+"question": "What cognitive output corresponds directly to the perception phase in human information processing?",
+"answer": "Meaning"
+},
 {
 "type": "enumeration",
 "question": "Enumerate the elements that good design must consider according to the text.",
