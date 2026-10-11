@@ -1,0 +1,152 @@
+{
+  "human-information-processing": {
+    "id": "human-information-processing",
+    "title": "Chapter 3: Human Computer Interaction",
+    "summary": "Human Information Processing (HIP) studies how people receive, process, and respond to information.",
+    "sections": [
+      {
+        "heading": "HUMAN INFORMATION PROCESSING",
+        "paragraphs": [
+          "Human Information Processing (HIP) studies how people receive, process, and respond to information. It connects psychology (how the brain works) and computer science (how machines process data)."
+        ],
+        "list": [
+          "Goal: Make technology easier, faster, and safer to use.",
+          "Human factors = understanding what people can and cannot do well.",
+          "Designers must consider:",
+          "Strengths: quick recognition, learning patterns.",
+          "Limitations: memory lapses, slower reaction under stress.",
+          "Purpose: create systems that match human abilities."
+        ]
+      },
+      {
+        "heading": "TASK MODELING & PROBLEM-SOLVING MODEL",
+        "paragraphs": [],
+        "list": [
+          "Task Modeling = step-by-step breakdown of how a user completes a task.",
+          "Problem-Solving Model:",
+          "Perception → recognizing information.",
+          "Cognition → analyzing and planning.",
+          "Action → executing response."
+        ]
+      },
+      {
+        "heading": "HUMAN REACTION",
+        "paragraphs": [],
+        "list": [
+          "Focuses on how fast and accurate humans can respond.",
+          "Influenced by:",
+          "Reaction time",
+          "Attention span",
+          "Error rate"
+        ]
+      },
+      {
+        "heading": "IMPORTANCE IN HCI",
+        "paragraphs": [],
+        "list": [
+          "Better interface design = improved user experience.",
+          "Reduces cognitive load and errors.",
+          "Enhances productivity and satisfaction."
+        ]
+      },
+      {
+        "heading": "SUMMARY:",
+        "paragraphs": [],
+        "list": [
+          "HIP = study of how humans handle information.",
+          "Human-factors knowledge helps create user-friendly systems.",
+          "Two main parts:",
+          "1. Task Modeling & Problem-Solving",
+          "2. Human Reaction & Performance Prediction",
+          "Application: Better apps, websites, and systems."
+        ]
+      }
+    ]
+},
+
+  "sensation-and-perception-in-hci": {
+    "id": "sensation-and-perception-in-hci",
+    "title": "Chapter 4: Human Computer Interaction",
+    "summary": "Sensation and perception govern how users receive and interpret information from a system.",
+    "sections": [
+      {
+        "heading": "SENSATION AND PERCEPTION OF INFORMATION",
+        "paragraphs": [
+          "Sensation: The process of detecting physical stimuli through the senses.",
+          "Perception: The process of interpreting and making sense of the sensation.",
+          "Key Idea: Sensation = input, Perception = meaning.",
+          "Users rely on senses to receive information from a system.",
+          "Perception helps them understand and act correctly."
+        ],
+        "list": [
+          "Good design must consider:Clear visuals",
+          "Readable text",
+          "Meaningful icons and sounds"
+        ]
+      },
+      {
+        "heading": "WHY IT MATTERS IN HCI",
+        "paragraphs": [],
+        "list": []
+      },
+      {
+        "heading": "VISUAL PERCEPTION",
+        "paragraphs": [
+          "The most dominant sense in HCI."
+        ],
+        "list": [
+          "Important aspects:Color perception (contrast, color blindness).",
+          "Size and visibility of objects.",
+          "Gestalt principles (proximity, similarity, continuity).",
+          "Example:Green = Go, Red = Stop.",
+          "Icons grouped together are seen as related."
+        ]
+      },
+      {
+        "heading": "AUDITORY PERCEPTION",
+        "paragraphs": [
+          "Hearing used for alerts, notifications, voice interaction."
+        ],
+        "list": [
+          "Key aspects:Volume – must be noticeable but not irritating.",
+          "Tone/Pitch – conveys urgency (high-pitch alarms = emergency).",
+          "Recognition of patterns – familiar sounds are easier to identify."
+        ]
+      },
+      {
+        "heading": "Haptic (Touch) Perception",
+        "paragraphs": [
+          "Users also process information through touch.",
+          "Improves immersion and interaction."
+        ],
+        "list": [
+          "Includes:Vibration feedback (haptic feedback on phones).",
+          "Force feedback (game controllers)."
+        ]
+      },
+      {
+        "heading": "Limits of Sensory Perception",
+        "paragraphs": [
+          "Design Tip: Keep interfaces simple, clear, and accessible."
+        ],
+        "list": [
+          "Visual overload – too much info on screen = confusion.",
+          "Auditory overload – too many notifications = irritation.",
+          "Individual differences – color blindness, hearing loss, or disability."
+        ]
+      },
+      {
+        "heading": "SUMMARY",
+        "paragraphs": [
+          "Sensation = raw input, Perception = interpretation.",
+          "Good design = information that is easy to sense and understand."
+        ],
+        "list": [
+          "In HCI, designers must consider:Vision (colors, shapes, grouping)",
+          "Hearing (alerts, notifications)",
+          "Touch (vibration, feedback)"
+        ]
+      }
+    ]
+  }
+}
